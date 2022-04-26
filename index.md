@@ -1,4 +1,4 @@
-<link href="mvp.css" rel="stylesheet"></link>
+<link rel="stylesheet" href="https://unpkg.com/mvp.css">
 
 |            | 月       | 火       | 水       | 木       | 金       | 
 | ---------- | -------- | -------- | -------- | -------- | -------- | 
