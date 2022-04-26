@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://unpkg.com/mvp.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/dark.min.css">
 
 |            | 月       | 火       | 水       | 木       | 金       | 
 | ---------- | -------- | -------- | -------- | -------- | -------- | 
