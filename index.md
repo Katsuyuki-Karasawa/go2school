@@ -1,24 +1,170 @@
-<link rel="stylesheet" href="https://cdn.rawgit.com/kimeiga/bahunya/css/bahunya-0.1.3.css" />
-
-|            | 月       | 火       | 水       | 木       | 金       | 
-| :--------: | :------: | :------: | :------: | :------: | :------: | 
-| 2022/04/11 | A        | B        | 健康診断 | B        | A        | 
-| 2022/04/18 | B        | A        | B        | A        | B        | 
-| 2022/04/25 | A        | B        | A        | B        | GW→     | 
-| 2022/05/02 |          |          |          |          | ←GW     | 
-| 2022/05/09 | B        | A        | B        | A        | A        | 
-| 2022/05/16 | A        | B        | A        | B        | B        | 
-| 2022/05/23 | B        | A        | B        | A        | A        | 
-| 2022/05/30 | A        | B        | A        | 育祭     | B        | 
-| 2022/06/06 | B        | A        | B        | B        | A        | 
-| 2022/06/13 | A        | B        | A        | A        | B        | 
-| 2022/06/20 | B        | A        | B        | B        | A        | 
-| 2022/06/27 | A        | B        | A        | A        | B        | 
-| 2022/07/04 | B        | A        | B        | B        | A        | 
-| 2022/07/11 | A        | B        | A        | A        | B        | 
-| 2022/07/18 | B        | A        | B        | B        | A        | 
-| 2022/07/25 | A        | B        | A        | A        | B        | 
-| 2022/08/01 | 夏休み   | 夏休み   | 夏休み   | 夏休み   | 夏休み   | 
-| 2022/08/29 | 夏休み   | 夏休み   | 夏休み   | B        | A        | 
-| 2022/09/05 | 予備     | 予備     | B        | 予備     | 予備     | 
-| 2022/09/12 | 資格対策 | 資格対策 | 資格対策 | 資格対策 | 資格対策 | 
+<table>
+	<tr>
+		<td></td>
+		<td>月</td>
+		<td>火</td>
+		<td>水</td>
+		<td>木</td>
+		<td>金</td>
+	</tr>
+	<tr>
+		<td>2022/04/11</td>
+		<td>A</td>
+		<td>B</td>
+		<td>健康診断</td>
+		<td>B</td>
+		<td>A</td>
+	</tr>
+	<tr>
+		<td>2022/04/18</td>
+		<td>B</td>
+		<td>A</td>
+		<td>B</td>
+		<td>A</td>
+		<td>B</td>
+	</tr>
+	<tr>
+		<td>2022/04/25</td>
+		<td>A</td>
+		<td>B</td>
+		<td>A</td>
+		<td>B</td>
+		<td>GW→</td>
+	</tr>
+	<tr>
+		<td>2022/05/02</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>←GW</td>
+	</tr>
+	<tr>
+		<td>2022/05/09</td>
+		<td>B</td>
+		<td>A</td>
+		<td>B</td>
+		<td>A</td>
+		<td>A</td>
+	</tr>
+	<tr>
+		<td>2022/05/16</td>
+		<td>A</td>
+		<td>B</td>
+		<td>A</td>
+		<td>B</td>
+		<td>B</td>
+	</tr>
+	<tr>
+		<td>2022/05/23</td>
+		<td>B</td>
+		<td>A</td>
+		<td>B</td>
+		<td>A</td>
+		<td>A</td>
+	</tr>
+	<tr>
+		<td>2022/05/30</td>
+		<td>A</td>
+		<td>B</td>
+		<td>A</td>
+		<td>体育祭</td>
+		<td>B</td>
+	</tr>
+	<tr>
+		<td>2022/06/06</td>
+		<td>B</td>
+		<td>A</td>
+		<td>B</td>
+		<td>B</td>
+		<td>A</td>
+	</tr>
+	<tr>
+		<td>2022/06/13</td>
+		<td>A</td>
+		<td>B</td>
+		<td>A</td>
+		<td>A</td>
+		<td>B</td>
+	</tr>
+	<tr>
+		<td>2022/06/20</td>
+		<td>B</td>
+		<td>A</td>
+		<td>B</td>
+		<td>B</td>
+		<td>A</td>
+	</tr>
+	<tr>
+		<td>2022/06/27</td>
+		<td>A</td>
+		<td>B</td>
+		<td>A</td>
+		<td>A</td>
+		<td>B</td>
+	</tr>
+	<tr>
+		<td>2022/07/04</td>
+		<td>B</td>
+		<td>A</td>
+		<td>B</td>
+		<td>B</td>
+		<td>A</td>
+	</tr>
+	<tr>
+		<td>2022/07/11</td>
+		<td>A</td>
+		<td>B</td>
+		<td>A</td>
+		<td>A</td>
+		<td>B</td>
+	</tr>
+	<tr>
+		<td>2022/07/18</td>
+		<td>B</td>
+		<td>A</td>
+		<td>B</td>
+		<td>B</td>
+		<td>A</td>
+	</tr>
+	<tr>
+		<td>2022/07/25</td>
+		<td>A</td>
+		<td>B</td>
+		<td>A</td>
+		<td>A</td>
+		<td>B</td>
+	</tr>
+	<tr>
+		<td>2022/08/01</td>
+		<td>夏休み</td>
+		<td>夏休み</td>
+		<td>夏休み</td>
+		<td>夏休み</td>
+		<td>夏休み</td>
+	</tr>
+	<tr>
+		<td>2022/08/29</td>
+		<td>夏休み</td>
+		<td>夏休み</td>
+		<td>夏休み</td>
+		<td>B</td>
+		<td>A</td>
+	</tr>
+	<tr>
+		<td>2022/09/05</td>
+		<td>予備</td>
+		<td>予備</td>
+		<td>B</td>
+		<td>予備</td>
+		<td>予備</td>
+	</tr>
+	<tr>
+		<td>2022/09/12</td>
+		<td>資格対策</td>
+		<td>資格対策</td>
+		<td>資格対策</td>
+		<td>資格対策</td>
+		<td>資格対策</td>
+	</tr>
+</table>
